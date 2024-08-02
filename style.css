@@ -1,0 +1,42 @@
+.body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.conatiner{
+    width:450px;
+    height:auto;
+    margin: 50px auto;
+    text-align: center;
+    background-color:skyblue;
+    border-radius: 20px;
+   
+}
+input{
+    width:100%;
+    box-sizing: border-box;
+    padding:15px;
+    border-radius: 12px;
+    margin-bottom:12px;
+    border:1px solid lightblue;
+    font-size: 15px;
+
+}
+.he1{
+    font-size: 20px;
+    
+
+}
+input:focus{
+    outline:none;
+    border:1px solid lightblue;
+}
+.btn1{
+    background-color:black;
+    color: white;
+    padding: 14px 30px;
+    border: none;
+    border-radius: 12px;
+    font-size: 15px
+}
+.note{
+    text-align: center;
+}
